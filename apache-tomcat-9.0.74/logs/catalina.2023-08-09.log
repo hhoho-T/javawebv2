@@ -1,0 +1,173 @@
+09-Aug-2023 04:31:08.896 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.74
+09-Aug-2023 04:31:08.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 13 2023 08:10:39 UTC
+09-Aug-2023 04:31:08.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.74.0
+09-Aug-2023 04:31:08.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+09-Aug-2023 04:31:08.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+09-Aug-2023 04:31:08.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Aug-2023 04:31:08.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+09-Aug-2023 04:31:08.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.8+9-LTS-211
+09-Aug-2023 04:31:08.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+09-Aug-2023 04:31:08.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74
+09-Aug-2023 04:31:08.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74
+09-Aug-2023 04:31:08.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-Aug-2023 04:31:08.938 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-Aug-2023 04:31:08.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+09-Aug-2023 04:31:08.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-Aug-2023 04:31:08.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-Aug-2023 04:31:08.939 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\logging.properties
+09-Aug-2023 04:31:08.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Aug-2023 04:31:08.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|May_tinh_cua_Quyet
+09-Aug-2023 04:31:08.940 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Aug-2023 04:31:08.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Aug-2023 04:31:08.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Aug-2023 04:31:08.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74
+09-Aug-2023 04:31:08.941 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74
+09-Aug-2023 04:31:08.942 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\temp
+09-Aug-2023 04:31:08.960 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+09-Aug-2023 04:31:08.960 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+09-Aug-2023 04:31:08.960 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+09-Aug-2023 04:31:08.981 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+09-Aug-2023 04:31:09.480 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Aug-2023 04:31:09.510 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1024] milliseconds
+09-Aug-2023 04:31:09.596 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Aug-2023 04:31:09.596 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.74]
+09-Aug-2023 04:31:09.609 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\mavenproject5.xml]
+09-Aug-2023 04:31:09.654 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/mavenproject5] in deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\mavenproject5.xml] has been ignored
+09-Aug-2023 04:31:09.714 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\mavenproject5.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:686)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:662)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:689)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1888)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:582)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:472)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1617)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:318)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:898)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:795)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:871)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:249)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:917)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@3f1d2e23]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4607)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4740)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\KAOPIZ\Documents\NetBeansProjects\mavenproject5\target\mavenproject5-1.0] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 41 more
+09-Aug-2023 04:31:09.731 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\mavenproject5.xml] has finished in [121] ms
+09-Aug-2023 04:31:09.731 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\quanlysinhvien.xml]
+09-Aug-2023 04:31:09.733 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/quanlysinhvien] in deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\quanlysinhvien.xml] has been ignored
+09-Aug-2023 04:31:09.743 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\quanlysinhvien.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:686)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:662)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:689)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1888)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:582)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:472)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1617)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:318)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:123)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:423)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:366)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:898)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:795)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:871)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:249)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:428)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:917)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@3576ddc2]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:440)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:198)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4607)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4740)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Users\KAOPIZ\Documents\NetBeansProjects\quanlysinhvien\target\quanlysinhvien-1.0-SNAPSHOT] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+		... 41 more
+09-Aug-2023 04:31:09.879 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\quanlysinhvien.xml] has finished in [148] ms
+09-Aug-2023 04:31:09.881 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\webapps\docs]
+09-Aug-2023 04:31:10.362 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\webapps\docs] has finished in [481] ms
+09-Aug-2023 04:31:10.364 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\webapps\examples]
+09-Aug-2023 04:31:11.107 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\webapps\examples] has finished in [743] ms
+09-Aug-2023 04:31:11.108 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\webapps\host-manager]
+09-Aug-2023 04:31:11.210 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\webapps\host-manager] has finished in [102] ms
+09-Aug-2023 04:31:11.210 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\webapps\manager]
+09-Aug-2023 04:31:11.292 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\webapps\manager] has finished in [82] ms
+09-Aug-2023 04:31:11.293 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\webapps\ROOT]
+09-Aug-2023 04:31:11.358 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\webapps\ROOT] has finished in [65] ms
+09-Aug-2023 04:31:11.363 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Aug-2023 04:31:11.712 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2201] milliseconds
+09-Aug-2023 04:31:17.946 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\mavenproject3.xml]
+09-Aug-2023 04:31:17.948 WARNING [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/mavenproject3] in deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\mavenproject3.xml] has been ignored
+09-Aug-2023 04:31:18.726 INFO [http-nio-8080-exec-9] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Aug-2023 04:31:18.734 INFO [http-nio-8080-exec-9] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\mavenproject3.xml] has finished in [787] ms
+09-Aug-2023 04:31:18.737 INFO [http-nio-8080-exec-10] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/mavenproject3]] after start() had already been called. The second call will be ignored.
+09-Aug-2023 04:35:15.266 INFO [http-nio-8080-exec-5] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/mavenproject3]
+09-Aug-2023 04:35:15.301 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\mavenproject3.xml]
+09-Aug-2023 04:35:15.302 WARNING [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/mavenproject3] in deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\mavenproject3.xml] has been ignored
+09-Aug-2023 04:35:15.852 INFO [http-nio-8080-exec-8] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+09-Aug-2023 04:35:15.857 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\KAOPIZ\Documents\Zalo Received Files\apache-tomcat-9.0.74\conf\Catalina\localhost\mavenproject3.xml] has finished in [556] ms
+09-Aug-2023 04:35:15.862 INFO [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/mavenproject3]] after start() had already been called. The second call will be ignored.
+09-Aug-2023 04:36:50.003 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+09-Aug-2023 04:36:50.004 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+09-Aug-2023 04:36:50.011 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+09-Aug-2023 04:36:50.039 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+09-Aug-2023 04:36:50.045 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

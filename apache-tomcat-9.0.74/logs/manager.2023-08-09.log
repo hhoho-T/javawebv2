@@ -1,0 +1,11 @@
+09-Aug-2023 04:31:17.821 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+09-Aug-2023 04:31:17.821 INFO [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+09-Aug-2023 04:31:17.909 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+09-Aug-2023 04:31:17.913 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+09-Aug-2023 04:31:17.936 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/KAOPIZ/AppData/Local/Temp/context6665301425927975400.xml'
+09-Aug-2023 04:31:18.737 INFO [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/mavenproject3'
+09-Aug-2023 04:35:14.710 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+09-Aug-2023 04:35:14.713 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+09-Aug-2023 04:35:14.732 INFO [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/mavenproject3'
+09-Aug-2023 04:35:15.293 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/KAOPIZ/AppData/Local/Temp/context16417407916698079996.xml'
+09-Aug-2023 04:35:15.861 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/mavenproject3'
